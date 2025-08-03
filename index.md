@@ -4,9 +4,9 @@ layout: default
 theme: minima
 ---
 
-# Difference-in-Differences Workshop at Notre Dame
+# Difference-in-Differences Talk at Camp Resources
 
-These are the materials for my Difference-in-Differences workshop at Notre Dame, Nov. 14, 2024.
+These are the materials for my Difference-in-Differences workshop at Camp Resources, August 4, 2024.
 
 ## Introduction to Difference-in-Differences
 
@@ -28,6 +28,10 @@ This is the main data used during the workshop.
 
 ## Additional Materials
 
-A main resource for the material from today's workshop is my DID chapter in the *Handbook of Labor, Human Resources, and Population Economics*.  The published (gated) version is available [here](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_352-1).   The (ungated) draft version is available [here](https://bcallaway11.github.io/files/Callaway-Chapter-2022/main.pdf).
+The main resources for the material from today's workshop are
+
+* My paper [``Difference-in-Differences: A Practitioner's Guide''](https://arxiv.org/pdf/2503.13323), forthcoming at the *Journal of Economic Literature*
+
+* My DiD chapter in the *Handbook of Labor, Human Resources, and Population Economics*.  The published (gated) version is available [here](https://link.springer.com/referenceworkentry/10.1007/978-3-319-57365-6_352-1).   The (ungated) draft version is available [here](https://bcallaway11.github.io/files/Callaway-Chapter-2022/main.pdf).
 
 The material for today's workshop is a subset of the material that I taught at the Bank of Portugal earlier in Fall 2024.  If you are interested, the full set of materials for that course are available [here](https://github.com/bcallaway11/bank-of-portugal).
